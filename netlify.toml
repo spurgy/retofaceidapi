@@ -1,0 +1,8 @@
+[build]
+  command = "pip install --upgrade pip && pip install -r requirements.txt"
+  publish = "build"
+
+[build.environment]
+  CPLUS_INCLUDE_PATH = "/usr/include/dlib/:"
+  LIBRARY_PATH = "/usr/lib/x86_64-linux-gnu/"
+  LD_LIBRARY_PATH = "/usr/lib/x86_64-linux-gnu/"
