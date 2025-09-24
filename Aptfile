@@ -1,0 +1,4 @@
+# Aptfile
+build-essential
+cmake
+libboost-all-dev
