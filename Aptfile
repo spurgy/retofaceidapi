@@ -3,3 +3,5 @@ build-essential
 cmake
 libopenblas-dev
 liblapack-dev
+gcc-12
+g++-12
