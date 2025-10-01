@@ -1,12 +1,9 @@
 # Required for OpenCV and DeepFace
-libgl1-mesa-glx
-libglib2.0-0
-libsm6
-libxext6
-libxrender1
 build-essential
 cmake
 libopenblas-dev
 liblapack-dev
 gcc-12
 g++-12
+libgl1-mesa-glx
+libglib2.0-0
