@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Railway / Docker local files
+*.env
+.env.local
+*.db
